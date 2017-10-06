@@ -1,0 +1,30 @@
+2017-10-06 08:50:26,656 [main] WARN  [discover.ServiceDiscover] Start to get zookeeper server address from configure..
+2017-10-06 08:50:31,760 [main] WARN  [discover.ServiceDiscover] Success to connect to Zookeeper Server
+2017-10-06 08:50:31,765 [main] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:50:31,765 [main] WARN  [discover.ServiceDiscover] Update the Service....
+2017-10-06 08:50:31,768 [main] WARN  [discover.ServiceDiscover] [0][0][3] Start to set up the schedule executor to schedule service discover
+2017-10-06 08:50:31,855 [main] INFO  [discover.ServiceDiscover] constructor of RpcServicePublishBean run.
+2017-10-06 08:50:31,862 [main] WARN  [discover.ServiceDiscover] Success to get service publish beans.[1]
+2017-10-06 08:50:31,862 [main] WARN  [discover.ServiceDiscover] Get the handler map and bootstrap, start to boot the rpc Server
+2017-10-06 08:50:32,774 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:50:32,776 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] Update the Service....
+2017-10-06 08:53:00,265 [main] WARN  [discover.ServiceDiscover] Start to get zookeeper server address from configure..
+2017-10-06 08:53:05,367 [main] WARN  [discover.ServiceDiscover] Success to connect to Zookeeper Server
+2017-10-06 08:53:05,372 [main] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:53:05,372 [main] WARN  [discover.ServiceDiscover] Update the Service....
+2017-10-06 08:53:05,375 [main] WARN  [discover.ServiceDiscover] [0][0][3] Start to set up the schedule executor to schedule service discover
+2017-10-06 08:53:05,460 [main] INFO  [discover.ServiceDiscover] constructor of RpcServicePublishBean run.
+2017-10-06 08:53:05,467 [main] WARN  [discover.ServiceDiscover] Success to get service publish beans.[1]
+2017-10-06 08:53:05,467 [main] WARN  [discover.ServiceDiscover] Get the handler map and bootstrap, start to boot the rpc Server
+2017-10-06 08:53:06,380 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:53:06,382 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] Update the Service....
+2017-10-06 08:54:26,726 [main] WARN  [discover.ServiceDiscover] Start to get zookeeper server address from configure..
+2017-10-06 08:54:31,827 [main] WARN  [discover.ServiceDiscover] Success to connect to Zookeeper Server
+2017-10-06 08:54:31,832 [main] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:54:31,832 [main] WARN  [discover.ServiceDiscover] Update the Service....
+2017-10-06 08:54:31,835 [main] WARN  [discover.ServiceDiscover] [0][0][3] Start to set up the schedule executor to schedule service discover
+2017-10-06 08:54:31,935 [main] INFO  [discover.ServiceDiscover] constructor of RpcServicePublishBean run.
+2017-10-06 08:54:31,942 [main] WARN  [discover.ServiceDiscover] Success to get service publish beans.[1]
+2017-10-06 08:54:31,942 [main] WARN  [discover.ServiceDiscover] Get the handler map and bootstrap, start to boot the rpc Server
+2017-10-06 08:54:32,841 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] get node list:[]
+2017-10-06 08:54:32,842 [serviceManagerThreadPool-1] WARN  [discover.ServiceDiscover] Update the Service....
